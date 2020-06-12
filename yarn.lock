@@ -2177,9 +2177,10 @@ readable-stream@^2.2.2:
     string_decoder "~1.0.0"
     util-deprecate "~1.0.1"
 
-reading-time@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/reading-time/-/reading-time-1.1.0.tgz#b0a13cb8511f5eaa570cf104d1ba0d68d50aa471"
+reading-time@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/reading-time/-/reading-time-1.2.0.tgz#ced71c06715762f805506328dcc1fd45d8249ac4"
+  integrity sha512-5b4XmKK4MEss63y0Lw0vn0Zn6G5kiHP88mUnD8UeEsyORj3sh1ghTH0/u6m1Ax9G2F4wUZrknlp6WlIsCvoXVA==
 
 readline2@^1.0.1:
   version "1.0.1"
