@@ -26,7 +26,7 @@
     "hexo-reading-helper"
   ],
   "dependencies": {
-    "reading-time": "^1.1.0"
+    "reading-time": "^1.2.0"
   },
   "devDependencies": {
     "husky": "^0.13.3",
