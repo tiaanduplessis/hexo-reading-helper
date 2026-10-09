@@ -63,6 +63,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/hexo-reading-helper.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install --save hexo-reading-helper
 # OR
